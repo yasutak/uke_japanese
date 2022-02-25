@@ -16,7 +16,7 @@ import string
 import numpy as np
 from numpy.linalg import norm
 
-class DirectedCentralityRnak(object):
+class DirectedCentralityRank(object):
     def __init__(self, 
                 document_feats,
                 extract_num=20,

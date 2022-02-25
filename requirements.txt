@@ -1,0 +1,26 @@
+# uke_japanese
+certifi
+charset-normalizer
+click
+colorama
+filelock
+fugashi
+huggingface-hub
+idna
+ipadic
+joblib
+mecab-python3
+numpy
+packaging
+pyparsing
+pyyaml
+regex
+requests
+sacremoses
+six
+tokenizers
+torch
+tqdm
+transformers
+typing-extensions
+urllib3
