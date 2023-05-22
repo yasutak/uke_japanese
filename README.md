@@ -9,6 +9,8 @@ paper: Xinnian Liang, et al. 2021. Unsupervised Keyphrase Extraction by Jointly 
 
 ## memo
 
+`python -m unidic download`
+
 `python main.py --input_file ${json_file} --output_file ${json_file}`
 
 all json values will be processed.
